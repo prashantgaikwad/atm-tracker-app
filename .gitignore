@@ -41,3 +41,5 @@ buck-out/
 android/app/libs
 android/keystores/
 .vscode/
+__tests__
+*.watchmanconfig
